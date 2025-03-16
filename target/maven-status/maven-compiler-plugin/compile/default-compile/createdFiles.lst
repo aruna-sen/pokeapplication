@@ -1,0 +1,11 @@
+com\exercise\poke\dto\PokemonDto.class
+com\exercise\poke\PokeApplication.class
+com\exercise\poke\dto\SpriteDto.class
+com\exercise\poke\service\PokeService.class
+com\exercise\poke\dto\StatDto.class
+com\exercise\poke\dto\PokemonStatsDto.class
+com\exercise\poke\controller\PokeController.class
+com\exercise\poke\dto\AbilityDto.class
+com\exercise\poke\service\impl\PokeServiceImpl.class
+com\exercise\poke\dto\PokemonAbilityDto.class
+com\exercise\poke\dto\PokemonDetailDto.class
